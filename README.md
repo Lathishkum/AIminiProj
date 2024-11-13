@@ -81,7 +81,7 @@ fund_names = [name.strip() for name in user_input.split(',')]
 compare_funds(fund_names)
 
 ### Output:
-![Uploading aiproj.png…]()
+![aiproj](https://github.com/user-attachments/assets/33d1a432-9d73-4c96-bbef-f33b50d25f26)
 
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
